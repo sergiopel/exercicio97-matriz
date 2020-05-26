@@ -40,6 +40,8 @@ public class Program {
         	}
         }
 		
+        System.out.println("Tchau, até a próxima.");
+        
 		sc.close();
 	}
 
